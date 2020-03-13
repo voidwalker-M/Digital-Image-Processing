@@ -1,5 +1,5 @@
 # Digital-Image-Processing
-# Created by voidwalker on 2019/12/29.
+Created by voidwalker on 2019/12/29.
 
 DIP project
 
